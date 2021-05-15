@@ -1,3 +1,5 @@
+"use strict";
+
 // object initializer
 let alice = {
 

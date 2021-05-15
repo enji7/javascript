@@ -1,3 +1,5 @@
+"use strict";
+
 // standard log output:
 console.log("Hello World!");
 

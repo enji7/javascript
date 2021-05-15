@@ -1,3 +1,5 @@
+"use strict";
+
 // no difference between double and single quotes;
 // double quotes are more Java-like;
 // single quotes are useful directly inside HTML code
