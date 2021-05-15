@@ -1,6 +1,6 @@
 # JavaScript
 
-Quick tour through JavaScript.
+Quick tour through some JavaScript features.
 
 ## Running the examples
 
