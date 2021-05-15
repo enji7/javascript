@@ -1,3 +1,5 @@
+"use strict";
+
 // throw and catch the built-in Error object;
 // see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error;
 // can be extended to add user-defined exceptions (see below)
