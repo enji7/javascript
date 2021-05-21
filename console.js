@@ -19,6 +19,12 @@ console.groupEnd();
 
 // see 'classes.js' for an example of 'console.table()'
 
+// print stack trace:
+console.trace("print stack trace");
+
+// show console object itself:
+console.log(console);
+
 /* 
  * For more infos on the console object, see
  * https://developer.mozilla.org/en-US/docs/Web/API/Console
