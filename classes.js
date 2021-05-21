@@ -22,14 +22,22 @@ class Person {
      * Getter for dynamically computing a property.
      */ 
     get fullName() {
+        // unlike Java, "this" is required explicitly
         return `${this.firstName} ${this.lastName}`;
     }
 
     /**
-     * Normal method.
+     * Normal method (without "function").
      */
     greet() {
         return `Hello, I'm ${this.firstName}. How are you?`;
+    }
+
+    /**
+     * Static method.
+     */
+    static greetUnspecific() {
+        return "Hello, I'm a person. How are you?";
     }
 
 }
@@ -58,6 +66,9 @@ console.log(`Alice is a ${alice.species} being`);
 
 // normal method invocation
 console.log(alice.greet());
+
+// static method invocation
+console.log(Person.greetUnspecific());
 
 /**
  * Inheritance.
