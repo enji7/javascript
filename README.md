@@ -17,4 +17,3 @@ Quick tour through some JavaScript features.
 
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [MDN: JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-* [MDN: Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
