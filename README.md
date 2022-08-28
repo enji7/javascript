@@ -11,7 +11,7 @@ Quick tour through some JavaScript features.
 
 * [Visual Studio Code](https://code.visualstudio.com/) works great for JavaScript development
   * the [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize) extension makes it easier to add semicolons at line ends
-  * semicolons can also be added through he built-in code formatter (Ctrl+Shift-I on Linux) if the "JavaScript > Format: Semicolons" setting is enabled
+  * semicolons can also be added through the built-in code formatter (Ctrl+Shift-I on Linux) if the "JavaScript > Format: Semicolons" setting is enabled
 
 ## References
 
