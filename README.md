@@ -1,6 +1,6 @@
 # JavaScript
 
-Quick tour through some JavaScript features.
+Quick tour through some JavaScript features. A more recent quiz covering these topics can be found here: [JavaScript Quiz](https://enji.systems/quiz-javascript/overview.html)
 
 ## Running the examples
 
